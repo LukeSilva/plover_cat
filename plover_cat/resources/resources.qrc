@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plover_cat">
+        <file>icon.svg</file>
+    </qresource>
+</RCC>
