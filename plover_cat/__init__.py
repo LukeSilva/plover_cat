@@ -2,7 +2,6 @@ from PyQt5.QtCore import Qt, QTimer
 from PyQt5.QtWidgets import QMainWindow, QHBoxLayout
 
 from plover.gui_qt.tool import Tool
-from textstat.textstat import textstat
 
 from plover_cat.plover_cat_ui import Ui_PloverCAT
 
