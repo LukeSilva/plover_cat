@@ -29,5 +29,11 @@ class PloverCATEditor(QPlainTextEdit):
                 if self._project:
                     self._project.deleteCharacter(cursor.position() - 1)
                 return
+                
+            elif key == QtCore.Qt.Key_Delete:
+                if self._project:
+                    self._project.deleteCharacter(cursor.position())
+                return
+
 
         super().keyPressEvent(event)
