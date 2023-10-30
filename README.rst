@@ -1,7 +1,7 @@
 About
 =====
 
-This plugin is a CAT software for the Plover realtime stenography
+This plugin is a Computer-assisted translation (CAT) software for the Plover realtime stenography
 engine.
 
 Installation
